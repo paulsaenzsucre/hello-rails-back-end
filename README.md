@@ -33,7 +33,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<<details>
+<details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
@@ -68,13 +68,13 @@ To clone this repository to your desired folder:
 - You can download the **Zip** file from the GitHub repository, or clone the repository with:
 
 ```console
-git clone https://github.com/paulsaenzsucre/hello-rails-react.git
+git clone https://github.com/paulsaenzsucre/hello-rails-back-end.git
 ```
 
 - Access the cloned directory with:
 
 ```console
-cd hello-rails-react
+cd hello-rails-back-end
 ```
 
 ### Install
@@ -100,7 +100,7 @@ bundle exec rails db:seed
 bundle exec rails start
 ```
 
-then go to [http://localhost:3000] (http://localhost:3000).
+then go to [http://localhost:3000](http://localhost:3000).
 
 ### Run tests
 
